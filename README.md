@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutuja Kokate</h1>
-<h3 align="center">College Student</h3>
+<h3 align="center">Study In Savitribai Phule Pune University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokate0307rutuja&label=Profile%20views&color=0e75b6&style=flat" alt="kokate0307rutuja" /> </p>
 
